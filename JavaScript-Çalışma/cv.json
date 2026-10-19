@@ -1,0 +1,33 @@
+{
+    "kisisel": {
+        "ad": "Arda",
+        "soyad": "Şen",
+        "konum": "İstanbul, Türkiye",
+        "telefon": "0555 555 55 55",
+        "email": "ardasen@gmail.com",
+        "hakkimda": "İstanbul Aydın Üniversitesi'nde Bilgisayar Programcılığı okuyorum. Okul dışında da kurslarla kendimi geliştiriyor, web ve masaüstü uygulamaları üzerine çalışıyorum. Yeni teknolojiler öğrenmeyi ve öğrendiklerimi gerçek işlerde kullanmayı seviyorum.",
+        "foto": "https://picsum.photos/200/300?grayscale"
+    },
+
+    "yetenekler": {
+        "diller": ["HTML", "CSS", "JavaScript", "C#", "SQL"],
+        "teknolojiler": ["ASP.NET Core MVC", "Entity Framework Core", "SQL Server"],
+        "araclar": ["Visual Studio", "VS Code", "Git"]
+    },
+
+    "diller": [
+        { "ad": "Türkçe", "seviye": "Anadil" },
+        { "ad": "İngilizce", "seviye": "B2" }
+    ],
+
+    "egitim": {
+        "ad": "İstanbul Aydın Üniversitesi",
+        "bolum": "Bilgisayar Programcılığı",
+        "yil": "2025-2027"
+    },
+
+    "projeler" :{
+        
+    }
+    
+}
